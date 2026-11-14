@@ -157,3 +157,6 @@ The experiments were conducted using:
        Deep Learning Framework: PyTorch
        Hardware Accelerator: NVIDIA Tesla T4 GPU
        Notebook Environment: Google Colab Jupyter Notebook
+
+
+Run time: Problem 1: 5 Minutes,  Problem 2:15 Minutes 
